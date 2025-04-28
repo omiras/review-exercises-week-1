@@ -1,6 +1,6 @@
 # Ejercicios previos 
 
-
+Ejecuta cada fichero con `node reviewX.js`, donde X es el número del ejercicio
 
 ## Review1: Obtener el úlitmo argumento
 
@@ -26,4 +26,7 @@ Cambia el _for_ del ejercicio por un [for...of](https://developer.mozilla.org/en
 
 Crea un script para transformar el objeto a un JSON y muestra por consola el número total de carácteres que tiene.
 
+## Resultados esperados
+
+![](https://oscarm.tinytake.com/media/1757f8d?filename=1745822598165_TinyTake28-04-2025-08-43-15_638814193977688745.png&sub_type=thumbnail_preview&type=attachment&width=796&height=106)
 
