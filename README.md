@@ -24,4 +24,6 @@ Cambia el _for_ del ejercicio por un [for...of](https://developer.mozilla.org/en
 
 ## Review3: JavaScript data to JSON
 
-Crea un script para transformar el objeto a un JSON y **mostrarlo por consola.**
+Crea un script para transformar el objeto a un JSON y muestra por consola el número total de carácteres que tiene.
+
+
